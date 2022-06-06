@@ -1,0 +1,5 @@
+/*https://leetcode.com/problems/patients-with-a-condition/
+
+# Write your MySQL query statement below
+*/
+select * from patients where conditions like '% diab1%' or conditions like 'diab1%';
