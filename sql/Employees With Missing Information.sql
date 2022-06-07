@@ -1,4 +1,4 @@
-/*https://leetcode.com/problems/employees-with-missing-information/submissions/
+/*https://leetcode.com/problems/employees-with-missing-information/
 
 # Write your MySQL query statement below
 wrong:
